@@ -1,0 +1,17 @@
+# Sass settings
+sass:
+     sass_dir: _assets
+port: 4000
+highlighter: null
+lsi: false
+permalink: /:year/:month/:title
+markdown: rdiscount
+safe: false
+rdiscount:
+  extensions: [smart]
+title: benmatheja.de - personal space
+email: post@benmatheja.de
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://benmatheja.de" # the base hostname & protocol for your site
+twitter_username: benmatheja
+github_username:  BenMatheja
