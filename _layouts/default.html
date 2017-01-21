@@ -3,3 +3,16 @@ theme :
   name : ben1
 ---
 
+=======
+<html lang="en" prefix="og: http://ogp.me/ns#">
+	{% include head.html %}
+	<body>
+	<div class="container">
+		{% include header.html %}
+	    {{ content }}
+    	{% include footer.html %}
+    </div>
+    
+    {% include highlight.html %}
+	</body>
+</html>

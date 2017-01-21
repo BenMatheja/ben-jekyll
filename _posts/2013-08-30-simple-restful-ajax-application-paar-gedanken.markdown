@@ -22,7 +22,7 @@ wordpress_url: http://benmatheja.de/?p=107
 date: '2013-08-30 11:02:17 +0200'
 date_gmt: '2013-08-30 09:02:17 +0200'
 categories:
-- Dev
+- dev
 tags:
 - restful
 - php

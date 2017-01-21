@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: 2048 - oder ein Spiel das s&uuml;chtig macht
+<<<<<<< HEAD
 author:
   display_name: ben
   login: ben
@@ -21,6 +22,8 @@ tags:
 - github
 - stackoverflow
 - games
+=======
+>>>>>>> c9942624178957d5b4dcbfde2162724f36b52fe4
 comments: []
 ---
 <p>Die letzte Tage habe ich damit verbracht meinen eigenen Highscore in 2048 zu knacken.</p>

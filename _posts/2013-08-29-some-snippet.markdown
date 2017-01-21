@@ -16,7 +16,7 @@ wordpress_url: http://benmatheja.de/?p=79
 date: '2013-08-29 22:50:09 +0200'
 date_gmt: '2013-08-29 20:50:09 +0200'
 categories:
-- Dev
+- dev
 tags:
 - php
 - snippet
