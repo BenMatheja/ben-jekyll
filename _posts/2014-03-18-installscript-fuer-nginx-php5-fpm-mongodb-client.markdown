@@ -29,7 +29,7 @@ tags:
 - bash
 - NGinx
 - MongoDB
-comments: []
+disqus_comments: true
 ---
 <p>F&uuml;r mein neustes Projekt greife ich auf die Kombination aus Nginx, PHP5-FPM und einer MongoDB zur&uuml;ck. Daf&uuml;r habe ich auf <a href="http:&#47;&#47;www.github.com">Github<&#47;a> ein ziemlich cooles installationsscript gefunden, welches einem die Arbeit abnimmt. Das Skript als .sh abspeichern, per <em>chmod a+x<&#47;em> ausf&uuml;hrbar machen und per <em>sudo .&#47;skriptname.sh<&#47;em> ausf&uuml;hren.<br />
 Gesehen&nbsp;<a href="https:&#47;&#47;github.com&#47;djit&#47;install-nginx-php-fpm-mongodb">hier<&#47;a>.</p>
