@@ -1,6 +1,5 @@
 ---
 layout: post
-<<<<<<< HEAD
 status: publish
 published: true
 title: Kostenbetrachtung Offsite-Backup via S3

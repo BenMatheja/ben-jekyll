@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Mehr Performance mit Cachify & Memcached
-<<<<<<< HEAD
 author:
   display_name: ben
   login: ben
@@ -22,8 +21,6 @@ wordpress_id: 541
 wordpress_url: https://benmatheja.de/?p=541
 date: '2015-03-15 14:30:11 +0100'
 date_gmt: '2015-03-15 13:30:11 +0100'
-=======
->>>>>>> c9942624178957d5b4dcbfde2162724f36b52fe4
 categories:
 - Dev
 tags:
@@ -111,5 +108,3 @@ Um eine grobe Einschätzung zu bieten, wie sich die Performance unter Memcached 
 Auffällig ist, dass Memcache die Zeit bis das Erste Byte an den Browser ausgeliefert wird um mehr als das 3-fache verringert (0,791s zu 0,207s). Dies wirkt sich schlussendlich auch positiv auf die insgesamte PageLoad-Time aus.
 
 Wo dieses Blog trotzdem Zeit verliert, ist bei der Disqus-Kommentarfunktion, die über JavaScript nachgeladen wird. Zusätzlich würde sich ein CDN zur Bereitstellung der statische Inhalte positiv auf die Performance auswirken.
-
->>>>>>> c9942624178957d5b4dcbfde2162724f36b52fe4

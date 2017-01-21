@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Sicher deine OwnCloud via Amazon S3
-<<<<<<< HEAD
 author:
   display_name: ben
   login: ben

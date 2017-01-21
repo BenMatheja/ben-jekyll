@@ -1,6 +1,5 @@
 ---
 layout: post
-<<<<<<< HEAD
 status: publish
 published: true
 title: Raspberry PI als Spotify Streambox dank Mopidy
@@ -32,14 +31,12 @@ date: '2014-03-15 13:22:58 +0100'
 date_gmt: '2014-03-15 12:22:58 +0100'
 categories:
 - frontpage
-=======
 title: Raspberry PI als Spotify Streambox dank Mopidy
 description: "Um den RaspberryPi in eine Streambox zu verwandeln gibt es drei Möglichkeiten. Volumio, Musicbox oder wir konfigurieren einfach selbst. Wie werde ich hier zeigen."
 date: '2014-03-15 13:22:58 +0100'
 date_gmt: '2014-03-15 12:22:58 +0100'
 disqus_comments: true
 categories:
->>>>>>> c9942624178957d5b4dcbfde2162724f36b52fe4
 - raspberryPi
 tags:
 - Musicbox
@@ -54,7 +51,6 @@ tags:
 - RaspberryPi
 - angularJS
 - DurandalJS
-<<<<<<< HEAD
 comments:
 - id: 40
   author: faxe2110
