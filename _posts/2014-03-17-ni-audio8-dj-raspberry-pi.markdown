@@ -26,7 +26,7 @@ tags:
 - Audio8
 - Native Instruments
 - Sound
-comments: []
+disqus_comments: true
 ---
 <p style="text-align: left;">Heute ein kleines yolo Projekt. Sinn ist irgendwie fragw&uuml;rdig - aber Sound ist verdammt gut.&nbsp;Habe eben die Native Instruments Audio 8 an den Pi angeschlossen. Selten so guten Sound gehabt. Direkt Spotify auf 320Kbits eingestellt.<&#47;p></p>
 <p style="text-align: left;"><a href="http:&#47;&#47;benmatheja.de&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;IMG_20140317_114617.jpg"><img class="aligncenter size-large wp-image-390" src="https:&#47;&#47;benmatheja.de&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;IMG_20140317_114617-1024x768.jpg" alt="Raspberry Pi &amp; NI Audio8 DJ" width="625" height="468" &#47;><&#47;a><&#47;p><br />

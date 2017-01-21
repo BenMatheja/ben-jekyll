@@ -28,7 +28,7 @@ tags:
 - php
 - javascript
 - tutorial
-comments: []
+disqus_comments: true
 ---
 <p>Hier ein paar Gedanken, wie man schnellstm&ouml;glich eine &nbsp;Simple Restful AJAX Application&nbsp;mit &nbsp;jQuery &amp; PHP umsetzt. &nbsp;Im nachfolegenden Teil werde ich euch zeigen, wie ihr den Webservice konfiguriert um eure Daten per JS zu visualisieren.</p>
 <p>Basis der Architektur ist das Framework <a href="http:&#47;&#47;peej.github.io&#47;tonic&#47;">Tonic : The Restful Web App Micro-PHP Framework<&#47;a>. Es zeichnet sich durch effizienz und sehr einfache Konfiguration der Ressourcen durch Annotation aus.</p>

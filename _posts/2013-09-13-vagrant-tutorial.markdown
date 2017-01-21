@@ -33,7 +33,7 @@ tags:
 - VM
 - dev
 - Apache2
-comments: []
+disqus_comments: true
 ---
 <p>Vagrant ist toll. &nbsp;Nachdem ich mich durch zahlreiche Tutorials geklickt habe, l&auml;uft der Vagrant auch bei mir. &nbsp;Vagrant erm&ouml;glicht eine Vorkonfiguration von Testumgebungen. Im Idealfall hat man nur noch ein recht kleines Archiv < 1 MB, welches eine lauff&auml;hige Testumgebung erstellt.&nbsp;<span style="line-height: 1.5;">Auf das Tool aufmerksam geworden, bin Ich durch <a title="Oracle Seminar: Effizienter LAMP-Stack &ndash; Some Insights" href="http:&#47;&#47;benmatheja.de&#47;2013&#47;09&#47;oracle-seminar-effizienter-lamp-stack&#47;">einen Vortrag bei &nbsp;Oracle Deutschland<span style="line-height: 1.5;">.<&#47;span><&#47;a><&#47;span></p>
 <p>Sehr geholfen hat das &nbsp;Konfigurationstool <a href="https:&#47;&#47;puphpet.com">puPHPet<&#47;a>.</p>

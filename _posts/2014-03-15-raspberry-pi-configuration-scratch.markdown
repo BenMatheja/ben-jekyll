@@ -22,7 +22,7 @@ tags:
 - tutorial
 - Linux
 - RaspberryPi
-comments: []
+disqus_comments: true
 ---
 <p>Nachdem mein durchkonfigurierter PI letztens den Dienst versagte - war eine Neuinstallation unausweichlich.</p>
 <h3>Kurze R&uuml;ckblende<&#47;h3><br />

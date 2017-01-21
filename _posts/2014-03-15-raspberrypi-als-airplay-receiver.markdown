@@ -33,7 +33,7 @@ tags:
 - Bonjour
 - Shairport
 - AirFoil
-comments: []
+disqus_comments: true
 ---
 <p style="text-align: left;">Im letzten Tutorial haben wir Mopidy f&uuml;r den standalone-Betrieb eingerichtet. Doch was ist, wenn von anderen Quellen als Spotify gestreamt werden soll? Beispielsw<span style="line-height: 1.714285714; font-size: 1rem;">eise YouTube oder Soundcloud.&nbsp;<&#47;span><span style="line-height: 1.714285714; font-size: 1rem;">AirPlay bietet sich genau daf&uuml;r an. Wir werden die AirPlay Emulation &nbsp;<&#47;span><a style="line-height: 1.714285714; font-size: 1rem;" href="https:&#47;&#47;github.com&#47;hendrikw82&#47;shairport">Shairport<&#47;a><span style="line-height: 1.714285714; font-size: 1rem;">&nbsp;mit Anpassungen von abrasive benutzen.<&#47;span><&#47;p><br />
 <a id="more"></a><a id="more-345"></a></p>

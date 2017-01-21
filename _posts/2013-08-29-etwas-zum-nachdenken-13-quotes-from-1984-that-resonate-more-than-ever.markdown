@@ -21,7 +21,7 @@ tags:
 - reddit
 - quotes
 - think
-comments: []
+disqus_comments: true
 ---
 <p><em>&ldquo;If you want to keep a secret, you must also hide it from yourself.&rdquo;<&#47;em></p>
 <p><a href="http:&#47;&#47;inktank.fi&#47;13-quotes-from-george-orwells-1984-that-resonate-more-than-ever&#47;">13 Quotes from 1984 that resonate more than ever<&#47;a></p>

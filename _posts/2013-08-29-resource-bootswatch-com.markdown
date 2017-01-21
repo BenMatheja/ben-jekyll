@@ -22,22 +22,7 @@ tags:
 - resource
 - bootstrap
 - webdesign
-comments:
-- id: 2
-  author: ben
-  author_email: post@benmatheja.de
-  author_url: http://benmatheja.de
-  date: '2013-08-30 15:52:47 +0200'
-  date_gmt: '2013-08-30 13:52:47 +0200'
-  content: "http:&#47;&#47;pikock.github.io&#47;bootstrap-magic&#47;index.html\r\n\r\nbootstrap
-    customizer, create individual css"
-- id: 3
-  author: ben
-  author_email: post@benmatheja.de
-  author_url: http://benmatheja.de
-  date: '2013-08-30 15:54:19 +0200'
-  date_gmt: '2013-08-30 13:54:19 +0200'
-  content: http:&#47;&#47;getbootstrap.com&#47;2.3.2&#47;examples&#47;carousel.html#
+disqus_comments: true
 ---
 <p>bootswatch.com versorgt die Nutzer von Twitter Bootstrap ( CSS&#47;JS Framework f&uuml;r rapid-web-dev) mit alternativen CSS3 -Stylesheets.&nbsp;Ziemlich gute Ideen dabei. Unter anderem auch die n&auml;chste Designgrundlage f&uuml;r diesen Blog.</p>
 <p><a style="line-height: 1.5; color: #ea9629; text-decoration: underline; outline: #000000;" title="http:&#47;&#47;bootswatch.com&#47;spacelab&#47;" href="http:&#47;&#47;bootswatch.com&#47;spacelab&#47;"><img class="alignnone" alt="" src="http:&#47;&#47;bootswatch.com&#47;spacelab&#47;thumbnail.png" width="500" height="300" &#47;><&#47;a></p>

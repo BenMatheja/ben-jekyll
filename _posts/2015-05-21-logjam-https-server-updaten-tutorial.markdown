@@ -13,6 +13,7 @@ tags:
 - tutorial
 status: publish
 type: post
+disqus_comments: true
 published: true
 meta:
 author:

@@ -24,7 +24,7 @@ tags:
 - GPU
 - Monitoring
 - bash
-comments: []
+disqus_comments: true
 ---
 <p>Um die GPU&#47;CPU temperatur des Raspberry PI auszulesen ist mir ein recht interessantes Skript untergekommen.<br />
 Gesehen <a href="http:&#47;&#47;raspberrypi.stackexchange.com&#47;questions&#47;9105&#47;raspberry-pi-onboard-temp-sensors-in-raspbianwheezy">hier<&#47;a>.</p>

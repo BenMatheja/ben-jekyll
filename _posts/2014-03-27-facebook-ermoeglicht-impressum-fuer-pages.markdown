@@ -23,7 +23,7 @@ tags:
 - Facebook
 - Pages
 - Impressum
-comments: []
+disqus_comments: true
 ---
 <p>Facebook - Endlich! &nbsp;Seit gestern ist es m&ouml;glich eure verwalteten Seiten mit einem Impressum zu versehen - nachdem man wirklich lange auf zus&auml;tzliche Apps angewiesen war, die eine statische HTML seite ausliefern k&ouml;nnen ist es nun endlich wirklich einfach der Pflicht ein Impressum anzugeben nachzukommen!</p>
 <p>&nbsp;</p>

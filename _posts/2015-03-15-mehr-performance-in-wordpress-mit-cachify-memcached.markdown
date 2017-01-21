@@ -17,7 +17,7 @@ excerpt: Seit einer Weile setze ich das Wordpress-Plugin <a href="http:&#47;&#47
   f&uuml;r die gesamte Seite angeworfen wird. Das Plugin speichert das HTML-Ergebnis&nbsp;f&uuml;r
   eine gewisse Dauer zwischen und versorgt damit die Besucher.&nbsp;Der Nutzer merkt
   davon nichts, au&szlig;er dass sich die Ladezeit des Blogs wesentlich verbessert.
-wordpress_id: 541
+disqus_comments: true
 wordpress_url: https://benmatheja.de/?p=541
 date: '2015-03-15 14:30:11 +0100'
 date_gmt: '2015-03-15 13:30:11 +0100'

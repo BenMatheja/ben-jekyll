@@ -1,5 +1,6 @@
 ---
 layout: post
+disqus_comments: true
 title: 'Blackbook: Server konfigurieren'
 date: 2016-10-07 22:15:28.000000000 +02:00
 categories:

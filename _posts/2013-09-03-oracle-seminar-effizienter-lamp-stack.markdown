@@ -32,19 +32,7 @@ tags:
 - Linux
 - vagrant
 - Oracle
-comments:
-- id: 7
-  author: Vagrant Tutorial - Get Your own Box
-  author_email: ''
-  author_url: http://benmatheja.de/2013/09/vagrant-tutorial/
-  date: '2013-09-13 16:33:03 +0200'
-  date_gmt: '2013-09-13 14:33:03 +0200'
-  content: "[&#8230;] Vagrant ist toll. &nbsp;Nachdem ich mich durch zahlreiche Tutorials
-    geklickt habe, l&auml;uft der Vagrant auch bei mir. &nbsp;Vagrant erm&ouml;glicht
-    eine Vorkonfiguration von Testumgebungen. Im Idealfall hat man nur noch ein recht
-    kleines Archiv < 1 MB, welches eine lauff&auml;hige Testumgebung erstellt.&nbsp;Auf
-    das Tool aufmerksam geworden, bin Ich durch einen Vortrag bei &nbsp;Oracle Deutschland.
-    [&#8230;]"
+disqus_comments: true
 ---
 <p>Heute besuchte ich die <a href="http:&#47;&#47;www.oracle.com&#47;de&#47;index.html">Oracle Deutschland GmbH<&#47;a> in Dreieich. Ziel des Ganzen war mehr &uuml;ber die von Oracle pr&auml;ferierte Architektur den LAMP-Stack (Linux x Apache x MySQL x PHP&#47;Perl&#47;Python) herauszufinden. Neben einer durchdachten Vortragsreihe und &uuml;berraschend guter Bewirtung sind ein paar Dinge h&auml;ngen geblieben.</p>
 <ul>

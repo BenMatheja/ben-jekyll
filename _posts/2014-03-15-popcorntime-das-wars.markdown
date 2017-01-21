@@ -21,7 +21,7 @@ tags:
 - popcorntime
 - DMCA
 - bittorrent
-comments: []
+disqus_comments: true
 ---
 <p><a href="http:&#47;&#47;getpopcornti.me&#47;">PopcornTime<&#47;a> - der Bit-Torrentclient mit integriertem Videoplayer schlie&szlig;t seine Pforten.<br />
 <a href="http:&#47;&#47;benmatheja.de&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;Untitled.png"><img class="aligncenter size-medium wp-image-333" alt="Untitled" src="http:&#47;&#47;benmatheja.de&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;Untitled-300x179.png" width="300" height="179" &#47;><&#47;a><br />

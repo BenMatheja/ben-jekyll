@@ -29,7 +29,7 @@ tags:
 - WLAN
 - Vi
 - RaspberryPi
-comments: []
+disqus_comments: true
 ---
 <p>Unser System ist gebootet. Der n&auml;chste Schritt ist das Dateisystem erweitern um den ganzen Platz der Karte auch wirklich auszunutzen. Anschlie&szlig;end dem PI etwas mehr Power per &Uuml;bertakten zu geben, das Keyboard Layout einstellen (falls ihr den PI wie ich direkt an einem Monitor zur Konfiguration betreibt), SSH f&uuml;r Fernzugang aktivieren und zuletzt werde ich noch das Passwort &auml;ndern.</p>
 <p><a id="more"></a><a id="more-287"></a></p>

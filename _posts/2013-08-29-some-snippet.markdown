@@ -21,7 +21,7 @@ tags:
 - php
 - snippet
 - stringsearch
-comments: []
+disqus_comments: true
 ---
 <p>useful php snippet to search in strings</p>
 <p>[php]$str = 'The invention of needles was a glorious experience';</p>

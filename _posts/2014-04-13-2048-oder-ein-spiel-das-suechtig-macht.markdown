@@ -11,7 +11,7 @@ author:
 author_login: ben
 author_email: post@benmatheja.de
 author_url: http://benmatheja.de
-wordpress_id: 467
+disqus_comments: true
 wordpress_url: http://benmatheja.de/?p=467
 date: '2014-04-13 12:20:30 +0200'
 date_gmt: '2014-04-13 10:20:30 +0200'

@@ -25,7 +25,7 @@ tags:
 - web2.0
 - application
 - coding
-comments: []
+disqus_comments: true
 ---
 <p>Bin eben beim Betrachten von&nbsp;<a href="http:&#47;&#47;www.weitclick.de">weitclick.de<&#47;a>&nbsp;auf das <a href="http:&#47;&#47;www.yiiframework.com&#47;">yiiframework<&#47;a> gesto&szlig;en, welches sich laut Hersteller direkt auf Web 2.0 Anwendungen spezialisiert hat. &nbsp;<span style="line-height: 1.5;">Sieht f&uuml;r mich nach einer hochperformanten Alternative zu <&#47;span><a style="line-height: 1.5;" href="http:&#47;&#47;cakephp.de&#47;">cakePHP <&#47;a><span style="line-height: 1.5;">aus. Es unterst&uuml;tzt MVC (selbstverst&auml;ndlich), DAO f&uuml;r MySQL &amp; MSSQL &amp; Oracle , Authentifizierung mit Rollenverwaltung und Scaffolding f&uuml;r das einfache Erstellen der Dom&auml;nenobjekte.<&#47;span></p>
 <p>Werde das die n&auml;chsten Tage mal testen!</p>
