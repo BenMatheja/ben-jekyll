@@ -4,13 +4,15 @@ theme :
 ---
 <html lang="en" prefix="og: http://ogp.me/ns#">
 	{% include head.html %}
+  {% if jekyll.environment == 'production' %}
+  	{% include analytics.html %}
+  {% endif %}
 	<body>
 	<div class="container">
-		{% include header.html %}
-	    {{ content }}
+	{% include header.html %}
+    	{{ content }}
     	{% include footer.html %}
-    </div>
-    
-    {% include highlight.html %}
+    	</div>
+    	{% include highlight.html %}
 	</body>
 </html>

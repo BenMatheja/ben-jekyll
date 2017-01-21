@@ -32,4 +32,7 @@ layout: default
   {% endif %}
   </div>
 </div>
-{% include autoreload-in-debug.html %}
+ {% if jekyll.environment == 'development' %}
+  {% include autoreload-in-debug.html %}
+ {% endif %}
+
