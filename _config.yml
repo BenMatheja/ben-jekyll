@@ -2,19 +2,23 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:year/:month/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "deploy.sh", ".sass-cache"]
-markdown: rdiscount
 # enables SmartyPants (nice curly quotation marks, em/en dashes, elipses, etc):
+markdown: rdiscount
 rdiscount:
   extensions: [smart]
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 title: benmatheja.de
 tagline: personal space
+description: "Space by benmatheja -- an IS Graduate with a passion for technology"
 author:
   name: Ben Matheja
   email: post@benmatheja.de
+  xing: Ben_Matheja
   github: BenMatheja
   twitter: benmatheja
+  last-fm: bennimatheja
 
 production_url: https://benmatheja.de
   
