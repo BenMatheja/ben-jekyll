@@ -3,6 +3,7 @@ theme :
   name : bootstrap-3
 layout: default
 ---
+{% include highlight.html %}
 <div class="content{% if page.photo_url %} photo-post{% endif %}">
   <div class="post single">
     {% unless page.photo_url %}
