@@ -35,7 +35,7 @@ Jedes GB darüber wird mit 5 ct veranschlagt.
 Derzeit hat meine Owncloud einen Datensatz von 131GB zu sichern, heißt monatlich 3€ + 31*0,05 = 4,55€.
 Erwartungsgemäß wird der Datensatz bis Mitte 2017 auf 200GB anwachsen. Das hat einerseits damit zu tun, dass ich Owncloud hauptsächlich für das Sichern der Bilder meiner Canon EOS benutze.
 Andererseits haben meine Familienmitglieder so langsam auch den Gefallen an der Lösung gefunden.
-In der Kostenbetrachtung hieße das dann 3€ + 100*0,05 = 8€.
+In der Kostenbetrachtung hieße das dann 3€ + 100 x 0,05 = 8€.
 
 Für das Geld könnte ich monatlich bereits einen <a href="http://www.netcup-sonderangebote.de/vserver/root-server-1000-plus/">Rootserver bei Netcup mit 640GB Speicher </a>bekommen. Meine Schmerzgrenze ist also erreicht.
 
