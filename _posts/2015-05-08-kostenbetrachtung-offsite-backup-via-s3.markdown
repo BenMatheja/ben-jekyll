@@ -4,7 +4,6 @@ title: Kostenbetrachtung Offsite-Backup via S3
 wordpress_url: https://benmatheja.de/?p=582
 date: '2015-05-08 08:33:27 +0200'
 date_gmt: '2015-05-08 06:33:27 +0200'
-disqus_comments: true
 ---
 Nachdem ich nun seit ca 2 Monaten meine Backups verschlüsselt zu AWS übertrage, musste ich gestern das erste Mal aus dem Backup wiederherstellen. Dabei sind mir ein paar Dinge klar geworden.
 
