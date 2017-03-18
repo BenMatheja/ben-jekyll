@@ -18,19 +18,6 @@ layout: default
     <div class="body">{{ content }}</div>
     <!-- <div class="breaker"></div> -->
     <div class="breaker"></div>
-
-  {% if page.disqus_comments %}
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-      window.disqus_identifier = {% if page.tumblr_id %}"{{ page.tumblr_id }}"{% else %}"{{ page.id }}"{% endif %};
-    </script>
-    <script async src="https://hunch.disqus.com/embed.js"></script>
-    <noscript>Please enable JavaScript to view the
-      <a href="http://disqus.com/?ref_noscript=hunch">comments powered by Disqus.</a>
-    </noscript>
-    {% include disqus.html %}
-  </div>
-  {% endif %}
   </div>
 </div>
  {% if jekyll.environment == 'development' %}
