@@ -93,6 +93,7 @@ Die Zeichenfolge trage ich in das Profil unter <code>GPG_PW</code> ein.
 
 #####Das Ziel: Amazon Simple Storage Service (S3)
 Als nächstes lege ich bei Amazon S3 ein Bucket (ein "Datenkasten") an, in welchem ich meine Backups speichern will. Dazu nutze ich die [S3 AWS Console](https://console.aws.amazon.com/s3/">S3 AWS Console). "Create Bucket"
+
 ![](/res/Screen-Shot-2015-03-14-at-21.27.30.png)
 
 
