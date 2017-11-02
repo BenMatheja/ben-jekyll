@@ -30,5 +30,6 @@ lsi: false
 permalink: /:year/:month/:title
 safe: false
 
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-gist
