@@ -3,9 +3,6 @@ rvm:
 - 2.2.2
 
 before_script:
- - npm install -g bower
- - cd _assets/ && bower install
- - cd .. && ln -s _assets/_site/bower_components/materialize/font fonts
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
