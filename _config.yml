@@ -26,6 +26,7 @@ production_url: https://benmatheja.de
 sass:
      sass_dir: _assets
      style: compressed
+
 port: 4000
 lsi: false
 permalink: /:year/:month/:title
@@ -34,4 +35,5 @@ safe: false
 plugins:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-assets
   - jekyll-picture-tag
