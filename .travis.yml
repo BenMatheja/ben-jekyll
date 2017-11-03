@@ -1,14 +1,16 @@
 language: ruby
 rvm:
-- 2.2.1
+- 2.2.2
 
 before_script:
  - npm install -g bower
  - cd _assets/ && bower install
  - cd .. && ln -s _assets/_site/bower_components/materialize/font fonts
- - chmod +x ./script/cibuild # or do this locally and commit
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: ./script/cibuild
+script: 
+ - gem install jekyll html-proofer
+ - JEKYLL_ENV=production jekyll build && htmlproofer ./_site
+
 sudo: false

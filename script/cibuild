@@ -1,2 +1,0 @@
-gem install jekyll html-proofer
-JEKYLL_ENV=production jekyll build && htmlproofer ./_site
