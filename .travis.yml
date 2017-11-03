@@ -5,7 +5,7 @@ rvm:
 before_script:
  - npm install -g bower
  - cd _assets/ && bower install
- - chmod +x ./script/cibuild # or do this locally and commit
+ - cd .. && chmod +x ./script/cibuild # or do this locally and commit
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
